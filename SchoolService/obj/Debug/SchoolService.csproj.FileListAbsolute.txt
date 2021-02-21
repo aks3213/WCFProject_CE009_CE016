@@ -1,0 +1,44 @@
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\SchoolService.dll.config
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\SchoolService.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\SchoolService.pdb
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.Permissions.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.Permissions.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\akshay bhanderi\source\repos\SchoolService\obj\Debug\SchoolService.csproj.CoreCompileInputs.cache
+C:\Users\akshay bhanderi\source\repos\SchoolService\obj\Debug\SchoolService.csproj.CopyComplete
+C:\Users\akshay bhanderi\source\repos\SchoolService\obj\Debug\SchoolService.dll
+C:\Users\akshay bhanderi\source\repos\SchoolService\obj\Debug\SchoolService.pdb
+C:\Users\akshay bhanderi\source\repos\SchoolService\obj\Debug\SchoolService.csprojAssemblyReference.cache
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\SchoolService.dll.config
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\SchoolService.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\SchoolService.pdb
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.AccessControl.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.Permissions.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.Principal.Windows.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.AccessControl.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.Permissions.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\bin\Debug\System.Security.Principal.Windows.xml
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\obj\Debug\SchoolService.csprojAssemblyReference.cache
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\obj\Debug\SchoolService.csproj.CoreCompileInputs.cache
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\obj\Debug\SchoolService.csproj.CopyComplete
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\obj\Debug\SchoolService.dll
+D:\akshay\SEM6\LABS\SOC\project\new\SchoolService\obj\Debug\SchoolService.pdb
